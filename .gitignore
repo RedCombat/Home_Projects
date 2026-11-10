@@ -1,0 +1,10 @@
+# Environment variables / secrets
+**/.env
+*.exe
+__pycache__/
+.vscode/
+
+
+# Binaries / Executables
+*.exe
+ngrok.exe
